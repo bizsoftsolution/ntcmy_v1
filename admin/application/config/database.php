@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'ntcmalay_nubehot';
-$db['default']['password'] = 'test123!@#';
-$db['default']['database'] = 'ntcmalay_nubehotel';
+$db['default']['hostname'] = 'ntc.my';
+$db['default']['username'] = 'ntcmy_v1';
+$db['default']['password'] = 'BizSoft2018+';
+$db['default']['database'] = 'ntcmy_v1';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
